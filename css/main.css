@@ -126,7 +126,7 @@ body, input, textarea, select, button, input[type="button"], input[type="reset"]
 .history-unit .work-desc h5:before { content: "→ "; display:inline-block; margin-right:6px; }
 .history-unit .work-desc p { margin-top: 0.6em; }
 .history-unit h4, .skill-unit h4 { margin-bottom:2px; font-weight:400; }
-.history-unit h4.work-time { position:relative; z-index:100; float:left; margin-top: 0; min-width: 80px; text-align: center; font-size: 2.2em; font-family: 'Trebuchet MS', cursive; padding: 4px 10px; border: 1px solid #ddd; border-radius: 4px; }
+.history-unit h4.work-time { position:relative; z-index:100; float:left; margin-top: 0; min-width: 80px; text-align: center; font-size: 0.8em; font-family: 'Trebuchet MS', cursive; padding: 4px 10px; border: 1px solid #ddd; border-radius: 4px; }
 .history-unit:before { content: ""; position:absolute; z-index:90; top: 66px; left:50px; bottom: 4px; border-left: 1px dashed #ccc; }
 .history-unit:last-child:before { display: none; }
 
